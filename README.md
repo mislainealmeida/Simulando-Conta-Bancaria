@@ -1,7 +1,7 @@
 # Simulando conta bancária através do terminal/console. 
 
 ## Introdução
-- Desafio do curso Trilha Java Básico da [DIO](www.dio.me) ministrado pelo instrutor [Gleyson Sampaio](https://github.com/glysns).
+- Desafio da  plataforma [DIO](www.dio.me) ministrado pelo instrutor [Gleyson Sampaio](https://github.com/glysns).
 
 ## Sintaxe - Desafio
 
